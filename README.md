@@ -17,11 +17,11 @@
 
 ### Github Stats 🥇
 
-![ramyaimansabry's Stats](https://github-readme-stats.vercel.app/api?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ramyaimansabry's Stats](https://github-readme-stats.vercel.app/api?username=ramysabryali&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ### Programming Language 😍
 
-![ramyaimansabry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ramyaimansabry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramysabryali&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ``
